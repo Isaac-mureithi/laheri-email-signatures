@@ -1,4 +1,4 @@
-# Laheri Email Signatures
+# Laheri Systems LTD Email Signatures
 
 Email signature templates for Laheri Systems LTD with GitHub-hosted images.
 
